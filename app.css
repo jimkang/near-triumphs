@@ -48,7 +48,6 @@ li.pane:only-child {
 a:link {
   color: #333;
   font-weight: bolder;
-  text-decoration: none;
 }
 
 a:visited {
