@@ -1,0 +1,26 @@
+{
+  "name": "near-triumphs",
+  "version": "1.0.0",
+  "description": "A tribute to Inpectah Deck.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/near-triumphs.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "bugs": {
+    "url": "https://github.com/jimkang/near-triumphs/issues"
+  },
+  "homepage": "https://github.com/jimkang/near-triumphs",
+  "devDependencies": {},
+  "dependencies": {
+    "@jimkang/randomid": "^1.0.2",
+    "probable": "^2.1.4",
+    "split-to-words": "^2.0.0"
+  }
+}
